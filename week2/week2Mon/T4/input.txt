@@ -1,0 +1,6 @@
+5
+1 Jim 1010
+2 Jim 0000
+1 Lihua 1111
+3 x 1100
+2 Xiaoming 0000

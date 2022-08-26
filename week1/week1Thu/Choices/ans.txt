@@ -1,0 +1,10 @@
+aaabbb
+5 0 5
+or and continue
+8
+jgd
+['1','2','3']
+1 5
+2
+<class 'str'> <class 'tuple'> <class 'list'> <class 'dict'> <class 'set'> will will will not will not
+Hi, Everyone My Name Is Bob. "abcd efg" Abcd Efg

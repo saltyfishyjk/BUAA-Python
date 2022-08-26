@@ -1,0 +1,10 @@
+3
+100.0 Chinese
+100.0 Math
+90.5 English
+90.5 Math
+89.5 Chinese
+99.5 Chinese
+60.0 English
+80.0 Math
+72.5 English
